@@ -21,7 +21,7 @@ author_contributions: |
   Please provide details of author contributions here.
 
 abstract: |
-Istadbut : résumé de 100 mots 
+  résumé de 100 mots 
 
 
 significance: |
@@ -48,8 +48,9 @@ lineno: false
 
 output: rticles::pnas_article
 ---
-
-
+Introduction {.unnumbered}
+========================================
+Introduction 
 This PNAS journal template is provided to help you write your work in the
 correct journal format. Instructions for use are provided below.
 
@@ -57,6 +58,18 @@ Note: please start your introduction without including the word
 "Introduction" as a section heading (except for math articles in the
 Physical Sciences section); this heading is implied in the first
 paragraphs.
+
+Argument x {.unnumbered}
+========================================
+Allo 
+
+Argument y {.unnumbered}
+========================================
+Alloha
+
+Argument z {.unnumbered}
+========================================
+Hola
 
 Guide to using this template {.unnumbered}
 ========================================
