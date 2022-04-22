@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.12)  21 APR 2022 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  21 APR 2022 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Essaie-finale.tex
 (./Essaie-finale.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-04-10> (./pnas-new.cls
+L3 programming layer <2022-04-20> (./pnas-new.cls
 Document Class: pnas-new 2018/05/06, v1.44
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -423,9 +423,9 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )) (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-04-10 L3 programming layer (loader) 
+Package: expl3 2022-04-20 L3 programming layer (loader) 
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-10 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count299
 \l__pdf_internal_box=\box67
 ))
@@ -893,31 +893,31 @@ Package: pnasresearcharticle 2018/05/06 v1.3 PNAS two column research article st
 ) (./Essaie-finale.aux)
 \openout1 = `Essaie-finale.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 89.
+Package hyperref Info: Link coloring ON on input line 88.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -927,9 +927,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count367
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 88.
+LaTeX Info: Redefining \pageref on input line 88.
+LaTeX Info: Redefining \nameref on input line 88.
 (./Essaie-finale.out) (./Essaie-finale.out)
 \@outlinefile=\write4
 \openout4 = `Essaie-finale.out'.
@@ -979,126 +979,131 @@ Package newfloat Info: `float' package detected.
 Package newfloat Info: `sidecap' package detected.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 89.
+(lastpage)             ! on input line 88.
 
 Package sidecap Warning: Package `ragged2e' not found -- expect bad formatting.
 
-LaTeX Info: Redefining \microtypecontext on input line 89.
-Package microtype Info: Applying patch `item' on input line 89.
-Package microtype Info: Applying patch `toc' on input line 89.
+LaTeX Info: Redefining \microtypecontext on input line 88.
+Package microtype Info: Applying patch `item' on input line 88.
+Package microtype Info: Applying patch `toc' on input line 88.
 
-Package microtype Warning: Unable to apply patch `eqnum' on input line 89.
+Package microtype Warning: Unable to apply patch `eqnum' on input line 88.
 
-Package microtype Info: Applying patch `footnote' on input line 89.
+Package microtype Info: Applying patch `footnote' on input line 88.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 89.
+LaTeX Info: Redefining \showhyphens on input line 88.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 97.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 97.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 96.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <22> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 97.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 97.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 97.
+(Font)              scaled to size 8.54997pt on input line 96.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 97.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 97.
+(Font)              scaled to size 8.54997pt on input line 96.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 97.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 97.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 97.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 97.
+(Font)              <9> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 97.
+(Font)              <6> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 97.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+(Font)              <5> on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 97.
+(Font)              scaled to size 5.69998pt on input line 96.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 97.
+(Font)              scaled to size 6.64998pt on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 97.
+(Font)              <7> on input line 96.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 97.
+(Font)              scaled to size 4.74998pt on input line 96.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 99.
+(Font)              scaled to size 7.59998pt on input line 98.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 108.
+(Font)              scaled to size 9.49997pt on input line 107.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 108.
+(Font)              scaled to size 9.49997pt on input line 107.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 152.
+(hyperref)                be the same. Added a new anchor on input line 151.
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 172--177
+Underfull \hbox (badness 1852) in paragraph at lines 171--176
 [] []\T1/phv/b/n/9 (+20) For-mat.[] \T1/lmr/m/n/9 (+20) Many au-thors find it use-ful to or-ga-nize their
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 190.
+Package mdframed Info: mdframed works in twoside mode on input line 189.
 Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 190.
+ mdframed uses option nobreak mdframed on input line 189.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 190.
+ mdframed uses option nobreak mdframed on input line 189.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 190.
-<frog.png, id=83, 200.75pt x 198.7425pt>
-File: frog.png Graphic file (type png)
-<use frog.png>
-Package pdftex.def Info: frog.png  used on input line 224.
-(pdftex.def)             Requested size: 200.7495pt x 198.742pt.
+(Font)              scaled to size 5.69998pt on input line 189.
+<grenouille.jpg, id=83, 180.675pt x 101.62968pt>
+File: grenouille.jpg Graphic file (type jpg)
+<use grenouille.jpg>
+Package pdftex.def Info: grenouille.jpg  used on input line 224.
+(pdftex.def)             Requested size: 180.67455pt x 101.62943pt.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 226.
-LaTeX Font Info:    Trying to load font information for T1+bch on input line 239.
+(Font)              scaled to size 6.64998pt on input line 225.
+<Istadbut.jpg, id=84, 180.675pt x 101.62968pt>
+File: Istadbut.jpg Graphic file (type jpg)
+<use Istadbut.jpg>
+Package pdftex.def Info: Istadbut.jpg  used on input line 230.
+(pdftex.def)             Requested size: 180.67455pt x 101.62943pt.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 244.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 ) (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-bch.cfg
@@ -1107,7 +1112,7 @@ File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 241.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 246.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1116,74 +1121,54 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 1394) in paragraph at lines 257--261
+Underfull \hbox (badness 1394) in paragraph at lines 262--266
 \T1/lmr/m/n/9 (+20) are to use the \T1/lmtt/m/n/9 \begin{figure*}...\end{figure*} \T1/lmr/m/n/9 (+20) en-vi-
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 257--261
+Underfull \hbox (badness 2443) in paragraph at lines 262--266
 \T1/lmr/m/n/9 (+20) ron-ment men-tioned above for fig-ures, or to use the
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 294.
+(Font)              scaled to size 7.59998pt on input line 299.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 294.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 299.
 LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 7.59998pt on input line 294.
+(Font)              scaled to size 7.59998pt on input line 299.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 295.
+(hyperref)                be the same. Added a new anchor on input line 300.
 
 
-Overfull \hbox (1.88892pt too wide) in paragraph at lines 367--372
+Overfull \hbox (1.88892pt too wide) in paragraph at lines 372--378
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--372
-
- []
-
-
-Overfull \hbox (1.88892pt too wide) in paragraph at lines 373--378
-[][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 373--378
-
- []
-
-
-Overfull \hbox (1.88892pt too wide) in paragraph at lines 379--385
-[][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--385
+Underfull \hbox (badness 10000) in paragraph at lines 372--378
 
  []
 
 
 AED: lastpage setting LastPage
-[2 <./frog.png>] (./Essaie-finale.aux)
+[2 <./grenouille.jpg> <./Istadbut.jpg>] (./Essaie-finale.aux)
 Package rerunfilecheck Info: File `Essaie-finale.out' has not changed.
-(rerunfilecheck)             Checksum: D54B25B6FC4E58A292A7D3D70D0B736E;2960.
+(rerunfilecheck)             Checksum: 1827800C190F1EB3FE3C7579BE2A09DE;2960.
  ) 
 Here is how much of TeX's memory you used:
- 30028 strings out of 480198
- 562481 string characters out of 5891664
- 882014 words of memory out of 5000000
- 47157 multiletter control sequences out of 15000+600000
- 559209 words of font info for 204 fonts, out of 8000000 for 9000
+ 30032 strings out of 480193
+ 562703 string characters out of 5891561
+ 881879 words of memory out of 5000000
+ 47174 multiletter control sequences out of 15000+600000
+ 561867 words of font info for 199 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,14n,118p,1010b,1124s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr5.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Essaie-finale.pdf (2 pages, 342606 bytes).
+{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr5.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Essaie-finale.pdf (2 pages, 354878 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 69834 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 71887 words of extra memory for PDF output out of 74296 (max. 10000000)
 
