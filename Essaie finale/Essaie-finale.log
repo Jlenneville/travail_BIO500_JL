@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  22 APR 2022 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  24 APR 2022 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1077,46 +1077,50 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 9.49997pt on input line 107.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 119.
+(hyperref)                be the same. Added a new anchor on input line 149.
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 133--138
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 165.
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 167--172
 [] []\T1/phv/b/n/9 (+20) For-mat.[] \T1/lmr/m/n/9 (+20) Many au-thors find it use-ful to or-ga-nize their
  []
 
-<grenouille.jpg, id=24, 180.675pt x 101.62968pt>
-File: grenouille.jpg Graphic file (type jpg)
-<use grenouille.jpg>
-Package pdftex.def Info: grenouille.jpg  used on input line 141.
-(pdftex.def)             Requested size: 252.84952pt x 270.38116pt.
+<Transparence.png, id=28, 471.26062pt x 421.575pt>
+File: Transparence.png Graphic file (type png)
+<use Transparence.png>
+Package pdftex.def Info: Transparence.png  used on input line 175.
+(pdftex.def)             Requested size: 252.8518pt x 270.37315pt.
 
-Overfull \hbox (6.75266pt too wide) in paragraph at lines 141--142
+Overfull \hbox (6.75494pt too wide) in paragraph at lines 175--176
  [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 142.
-<Istadbut.jpg, id=25, 180.675pt x 101.62968pt>
+(Font)              scaled to size 6.64998pt on input line 176.
+<Istadbut.jpg, id=30, 180.675pt x 101.62968pt>
 File: Istadbut.jpg Graphic file (type jpg)
 <use Istadbut.jpg>
-Package pdftex.def Info: Istadbut.jpg  used on input line 147.
+Package pdftex.def Info: Istadbut.jpg  used on input line 181.
 (pdftex.def)             Requested size: 252.84952pt x 270.38116pt.
 
-Overfull \hbox (6.75266pt too wide) in paragraph at lines 147--148
+Overfull \hbox (6.75266pt too wide) in paragraph at lines 181--182
  [][] 
  []
 
+<image intro .png, id=31, 342.5297pt x 169.38281pt>
+File: image intro .png Graphic file (type png)
+<use image intro .png>
+Package pdftex.def Info: image intro .png  used on input line 187.
+(pdftex.def)             Requested size: 303.44452pt x 270.37962pt.
 
-Overfull \hbox (1.88892pt too wide) in paragraph at lines 157--163
-[][] []
+Overfull \hbox (57.34766pt too wide) in paragraph at lines 187--188
+ [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--163
-
- []
-
-LaTeX Font Info:    Trying to load font information for T1+bch on input line 171.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 192.
 (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 ) (c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-bch.cfg
@@ -1124,36 +1128,75 @@ File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 ) [1{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./grenouille.jpg> <./Istadbut.jpg>]
-Package mdframed Info: mdframed works in twoside mode on input line 171.
+ <./Transparence.png> <./Istadbut.jpg>]
+Package mdframed Info: mdframed works in twoside mode on input line 192.
 Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 171.
+ mdframed uses option nobreak mdframed on input line 192.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 171.
+ mdframed uses option nobreak mdframed on input line 192.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 171.
+(Font)              scaled to size 5.69998pt on input line 192.
+
+Overfull \hbox (1.88892pt too wide) in paragraph at lines 197--202
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--202
+
+ []
+
+
+Overfull \hbox (1.88892pt too wide) in paragraph at lines 203--207
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
+
+
+Overfull \hbox (1.88892pt too wide) in paragraph at lines 208--212
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+
+ []
+
+
+Overfull \hbox (1.88892pt too wide) in paragraph at lines 213--217
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--217
+
+ []
+
 
 AED: lastpage setting LastPage
 [2
 
-
-] (./Essaie-finale.aux)
+ <./image intro .png>] (./Essaie-finale.aux)
 Package rerunfilecheck Info: File `Essaie-finale.out' has not changed.
-(rerunfilecheck)             Checksum: D1206C2935CD72E5A6B9143E1E6E1D2D;493.
+(rerunfilecheck)             Checksum: CB5A28DE822DC5DC45D613A215B8A7C0;588.
  ) 
 Here is how much of TeX's memory you used:
- 29866 strings out of 480193
- 560510 string characters out of 5891561
- 865362 words of memory out of 5000000
- 47105 multiletter control sequences out of 15000+600000
- 553636 words of font info for 156 fonts, out of 8000000 for 9000
+ 29898 strings out of 480193
+ 560950 string characters out of 5891561
+ 872390 words of memory out of 5000000
+ 47113 multiletter control sequences out of 15000+600000
+ 554343 words of font info for 164 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,14n,118p,1010b,1128s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr5.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/jorda/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Essaie-finale.pdf (2 pages, 296166 bytes).
+Output written on Essaie-finale.pdf (2 pages, 406125 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 65087 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
+ 65100 words of extra memory for PDF output out of 74296 (max. 10000000)
 

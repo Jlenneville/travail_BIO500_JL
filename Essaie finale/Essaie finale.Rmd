@@ -32,8 +32,8 @@ acknowledgements: |
 keywords:
   - Reproductibilité 
   - Transparence
+  - Refonte
   - ?
-  - ? 
   - ?
 
 ## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
@@ -50,7 +50,7 @@ output: rticles::pnas_article
 Introduction {.unnumbered}
 ========================================
  
-Introduction à la reproductibilité, transparence et parler un peu de l'urgence de publié de ce temps-ci @pennisi_spider_2020.
+Introduction à la reproductibilité, transparence et parler un peu de l'urgence de publié de ce temps-ci
 
 Argumentation {.unnumbered}
 ========================================
@@ -62,6 +62,11 @@ a
 Solutions  {.unnumbered}
 ------
 b 
+
+Conclusion {.unnumbered}
+========================================
+
+
 
 Format {#format .unnumbered}
 ------
