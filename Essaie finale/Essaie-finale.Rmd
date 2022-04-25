@@ -20,12 +20,10 @@ lead_author_surname: Lenneville
 abstract: |
  La crise de reproductibilité se fait de plus en plus sentir dans la science. De nombreux scientifiques sont incapables de reproduire différentes expériences incluant les leurs. 34% des chercheurs n’ont même pas de procédures établies pour assurer un minimum de reproductibilité @baker_1500_2016. Les scientifiques modernes ont-ils perdu leur crédibilité ?   La science recherche-t-elle encore la vérité ou est-elle plutôt à la chasse aux résultats ? Chose sûre la communauté scientifique manque de transparence dans leurs publications, mais plusieurs sont poussé à publier précocement. Il n’existe probablement pas de remède miracle à cette crise, mais ils existent certainement quelques solutions pour améliorer la situation telle que le Broad Daylight Publication Model (BDPM) @wicherts_letting_2012. 
 
-significance: 
-  Cet article a été rédigé dans le cadre du cours de Méthodes en écologie computationnelle (BIO500). Ce travail à comme but de formuler et défendre une opinion sur les enjeux de reproductibilité en écologie. Plus précisément, les élèves sont mendatés à s'exprimer sur l'importance de la transparence et des standards de reproductibilité dans un contexte où il y a une accélération de la recherche.
 
 
 acknowledgements: |
-  Merci Dominique pour ce cours qui m'a été utile pour optimiser mon temps de codage. J'ai surtout aimer travailler avec Rmarkdown. Bon été!
+  Merci à Dominique et Benjamin pour ce cours qui m'a été utile pour optimiser mon temps de codage. J'ai surtout aimer travailler avec Rmarkdown. Bon été!
   
   **Bibliographie** 
 
