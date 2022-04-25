@@ -1,0 +1,84 @@
+---
+title: Les scientifiques sont-ils crédibles ? 
+
+# Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
+author:
+  - name: Jordan Lenneville 
+    affiliation: a,1
+address:
+  - code: a
+    address: Université de Sherbrooke, Écologie, 2500 bd de l'Université, Sherbrooke, Qc, J1K 2R1
+
+corresponding_author:
+  code: 1
+  text: "E-mail: lenj0501@USherbrooke.ca"
+
+# For footer text
+lead_author_surname: Lenneville
+
+
+abstract: |
+ La crise de reproductibilité se fait de plus en plus sentir dans la science. De nombreux scientifiques sont incapables de reproduire différentes expériences incluant les leurs. 34% des chercheurs n’ont même pas de procédures établies pour assurer un minimum de reproductibilité @baker_1500_2016. Les scientifiques modernes ont-ils perdu leur crédibilité ?   La science recherche-t-elle encore la vérité ou est-elle plutôt à la chasse aux résultats ? Chose sûre la communauté scientifique manque de transparence dans leurs publications, mais plusieurs sont poussé à publier précocement. Il n’existe probablement pas de remède miracle à cette crise, mais ils existent certainement quelques solutions pour améliorer la situation telle que le Broad Daylight Publication Model (BDPM) @wicherts_letting_2012. 
+
+significance: 
+  Cet article a été rédigé dans le cadre du cours de Méthodes en écologie computationnelle (BIO500). Ce travail à comme but de formuler et défendre une opinion sur les enjeux de reproductibilité en écologie. Plus précisément, les élèves sont mendatés à s'exprimer sur l'importance de la transparence et des standards de reproductibilité dans un contexte où il y a une accélération de la recherche.
+
+
+acknowledgements: |
+  Merci Dominique pour ce cours qui m'a été utile pour optimiser mon temps de codage. J'ai surtout aimer travailler avec Rmarkdown. Bon été!
+  
+  **Bibliographie** 
+
+keywords:
+  - Reproductibilité 
+  - Transparence
+  - BDPM 
+
+## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
+pnas_type: pnasresearcharticle
+
+bibliography: References.bib
+csl: pnas.csl
+
+## change to true to add optional line numbering
+lineno: false
+
+output: rticles::pnas_article
+---
+Introduction {.unnumbered}
+========================================
+ 
+Le questionnement de la crédibilité des scientifiques, que ce soit pour leur reproductibilité ou leur transparence, est de plus en plus populaire. En effet, comme mentionné dans l’étude de Fanelli @fanelli_is_2018, l’augmentation d’article dédié à ce sujet, au cours des dernières années, est exponentielle (Fig 1). Le sondage fait par Baker @baker_1500_2016 a amené plusieurs réponses assez inquiétantes. En effet,70% des chercheurs interrogés ont déjà échoué à reproduire des expériences effectuées d’autres chercheurs et plus de la moitié d’entre eux ont échoué à reproduire leur(s) propre(s) expérience(s). Finalement, toujours selon le sondage de Bake @baker_1500_2016, 52% des scientifiques interrogés croient qu’il y a une crise majeure de reproductibilité au sein de leur communauté. Ces sondages ont alors amené plusieurs scientifiques à se pencher sur le sujet de la reproductibilité et de la transparence afin de découvrir quels sont les différents problèmes qui nous a amenés à cette crise et quelles sont les solutions. Avant de se lancer sur les différents problèmes et solutions de ce sujet il est important d’avoir une définition générale de la reproductibilité et la transparence. Tout d’abord, il n’existe pas de définition précise pour la reproductibilité, car la variété qui se retrouve dans les différents sujets scientifiques est énorme @begley_reproducibility_2015. C’est pourquoi qu’il est normal de n’être pas capable de reproduire chaque détail d’une expérience effectuée ultérieurement @begley_reproducibility_2015. Toutefois, le minimum de reproductibilité qui devrait être atteignable est d’arrivée aux mêmes grandes conclusions du départ lorsqu’on reproduit une expérience @begley_reproducibility_2015. La transparence est aussi un sujet n’ayant pas de définition précise. Toutefois, un article dédié à la taxonomie de la transparence en science @elliott_taxonomy_2020, a recensé les différents concepts de transparence amenés par les scientifiques et les a séparés en 8 dimensions qu’on peut retrouver à cette figure (Fig 2). 
+
+Argumentation {.unnumbered}
+========================================
+
+Problèmes {.unnumbered}
+------
+Énormément de problèmes ont été recensés comme étant la cause de cette crise de reproductibilité. Évidemment, certains problèmes sont jugés plus importants que d’autres. Par exemple, il a été mentionné que les environnements très contrôlés, que sont les laboratoires, empêchent de reproduire les mêmes résultats, car les facteurs environnementaux qui sont spécifiques à chaque laboratoire sont très difficiles à reproduire @milcu_genotypic_2018. Un autre problème majeur serait que beaucoup d’articles font de la sélection de résultats, c’est-à-dire de démontrer seulement les résultats qui sont en faveur de leurs hypothèses et d’omettre de présenter les résultats qui ne sont pas significatifs @saini_selective_2014, @baker_1500_2016. D’autres scientifiques croient que ce sont les faibles analyses et forces statistiques qui empêchent beaucoup d’études d’être reproductible @fanelli_is_2018, @baker_1500_2016, @nakagawa_farewell_2004. En effet, ce problème ferait en sorte qu’il y a beaucoup plus de chances d’avoir un faux positif @fanelli_is_2018 et donc d’avoir un problème statistique de type 2 qui consiste à ne pas rejeter l’hypothèse lorsqu’elle est fausse @nakagawa_farewell_2004. Personnellement, je crois que les problèmes expliquant le mieux le manque de reproductibilités sont la pression de publier de plus en plus vite et le manque flagrant de transparence. Récemment avec la Covid, il a été observé que la pression pour publier était forte @london_against_2020. De plus, à cause de la pandémie et la pression de publier, des exceptions ont été acceptées afin de diminuer les standards de qualité normaux (appelées <<pandemic research exceptionalism>>) @london_against_2020 et ainsi augmenter la vitesse de publication. Cela fait en sorte que ces études obtiennent des résultats beaucoup plus rapides que les études rigoureuses, et reçoivent donc plus de subventions même si la plupart de ces publications non rigoureuses obtiennent des résultats faussement positifs @london_against_2020. Il a également été observer qu’avec une forte pression de publication, les scientifiques sont plus enclins à faire de la fraude @eisner_reproducibility_2018. Il est normal de croire que le manque de transparence des publications scientifiques cause un manque de reproductibilité. En effet, le manque de publication de données d’un projet et le secret du processus de la révision par les pairs est problématiques puisqu’il est beaucoup plus difficile de vraiment savoir s’il y a de la fraude et/ou des erreurs de statistiques dans les données @wicherts_letting_2012. De plus, en <<cachant>> le processus de révision des pairs il est impossible de savoir la qualité de la révision @wicherts_letting_2012. 
+
+Solutions  {.unnumbered}
+------
+Plusieurs solutions ont été proposées pour les différents problèmes mentionnés précédemment. Toutefois, je crois que la meilleure solution est une transparence améliorée, mais contrôlée. Je dis contrôlé, car plusieurs scientifiques sont réticents à être 100% transparents et ils ont de bons arguments. En effet, les longues études qui s’étalent sur de nombreuses années pourraient être grandement touchées par une transparence totale @mills_archiving_2015. Dans cet article, il est mentionné que la majorité des scientifiques responsables de longues études sont inquiets de fournir leurs données au public pour plusieurs raisons @mills_archiving_2015. 1- puisque les données et méthodes des longues études sont très complexes il est fort probable qu’ils seront interprétés d’une mauvaise manière par le public. 2- Il risque d’avoir moins de collaborations, car il ne serait plus nécessaire d’être collaborateurs pour avoir accès aux données. 3- Les études à long terme risque d’avoir encore plus de difficultés à se subventionner, déjà que la plupart d’entre eux font face à des problèmes de subventions (Fig 3) @mills_archiving_2015. Selon moi, la meilleure solution pour avoir une transparence contrôlée qui optimise la reproductibilité serait la solution proposée dans cette étude @wicherts_letting_2012. Leur système se nomme Broad Daylight Publication Model (BDPM) et contient trois volets principaux : 1- la transparence du processus éditorial 2- la responsabilité des réviseurs 3- l’ouverture des données au public avec un certain contrôle. Leur premier volet consiste à rendre publiques toutes demandes (acceptées refusées) pour être publiés dans les différents journaux. Ce volet consiste également à rendre publiques toutes les revues des différents articles. Leur deuxième volet consiste à permettre aux lecteurs d’attribuer des cotes aux réviseurs en fonction de leur travail de révision. Cela fera en sorte que le système de révision sera optimal, car les mauvais réviseurs auront une mauvaise cote et les chercheurs seront donc moins enclins de les prendre dans leurs prochaines études. Finalement, le troisième assure un contrôle de la transparence par une confidentialité des participants aux études et par un moratoire d’une durée déterminée qui pourra être établi pour les études de longue durée. Cela donne donc une longueur d’avance aux chercheurs originaux d’une étude afin d’éviter qu’ils soient dépassés par d’autres équipes de chercheurs qui pourraient avoir accès à leurs données.
+
+Conclusion {.unnumbered}
+========================================
+
+Pour résumer, les recherches sont de plus en plus contestées, car elles présentent un grand problème de reproductibilités. Les raisons qui pourraient expliquer cette crise sont assez variées. Certains croient que ce serait le manque de variabilité dans les échantillons analysés, d’autres croient que ce seraient des statistiques faibles et remplies d’erreurs. Toutefois, je crois que les raisons principales dernières cette crise sont la pression de publier et le manque de transparence. La meilleure façon de régler ces problèmes serait d’employer le BDPM puisque ce modèle améliore le système de révision par les pairs et permet d’avoir un contrôle de la transparence qui supporte les études de longue durée. Ce modèle pourrait même régler le problème de pression de publication, car les bons réviseurs n’accepteront pas des études qui ne sont pas rigoureuses dans leur méthode. 
+
+
+![L'augmentation d'articles dédiés à la crise de reproductibilité 
+](image intro .png){width=50% height=50%}
+
+![Les 8 dimensions de la transparence 
+](Transparence.png){width=50% height=40%}
+
+![Durée de l'étude et pourcentage d'années non subventionnées
+](Subventions.png){width=40% height=40%}
+
+
+
+<!-- Leave these lines as they are at the end of your .Rmd file to ensure placement of methods & acknowledgements sections before the references-->
+\showmatmethods
+\showacknow
+\pnasbreak
